@@ -3,7 +3,7 @@ package com.github.pockethub.android.ui.item.news
 import android.text.SpannableStringBuilder
 import android.text.TextUtils
 import android.util.Log
-import androidx.text.bold
+import androidx.core.text.bold
 import com.github.pockethub.android.R
 import com.github.pockethub.android.util.AvatarLoader
 import com.github.pockethub.android.util.TimeUtils

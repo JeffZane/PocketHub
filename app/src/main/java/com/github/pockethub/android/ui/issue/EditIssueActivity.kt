@@ -34,8 +34,8 @@ import android.widget.EditText
 import android.widget.ImageView
 import android.widget.LinearLayout.LayoutParams
 import android.widget.TextView
-import androidx.text.bold
-import androidx.text.buildSpannedString
+import androidx.core.text.bold
+import androidx.core.text.buildSpannedString
 import butterknife.BindView
 import butterknife.OnClick
 import butterknife.OnTextChanged

@@ -28,10 +28,9 @@ import android.graphics.drawable.LayerDrawable
 import android.graphics.drawable.PaintDrawable
 import android.text.style.DynamicDrawableSpan
 import android.widget.TextView
-import androidx.text.buildSpannedString
-import androidx.text.inSpans
+import androidx.core.text.buildSpannedString
+import androidx.core.text.inSpans
 import com.github.pockethub.android.R
-import com.github.pockethub.android.util.ServiceUtils
 import com.meisolsson.githubsdk.model.Label
 import java.lang.Integer.MIN_VALUE
 import java.lang.String.CASE_INSENSITIVE_ORDER

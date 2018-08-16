@@ -1,11 +1,11 @@
 package com.github.pockethub.android.ui.item.gist
 
 import android.text.TextUtils
-import androidx.text.bold
-import androidx.text.buildSpannedString
+import androidx.core.text.bold
+import androidx.core.text.buildSpannedString
 import com.github.pockethub.android.R
-import com.github.pockethub.android.util.android.text.append
 import com.github.pockethub.android.util.AvatarLoader
+import com.github.pockethub.android.util.android.text.append
 import com.meisolsson.githubsdk.model.Gist
 import com.xwray.groupie.kotlinandroidextensions.Item
 import com.xwray.groupie.kotlinandroidextensions.ViewHolder

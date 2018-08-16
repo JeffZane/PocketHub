@@ -2,11 +2,11 @@ package com.github.pockethub.android.ui.item.commit
 
 import android.content.Context
 import android.view.View
-import androidx.text.buildSpannedString
+import androidx.core.text.buildSpannedString
 import com.github.pockethub.android.R
-import com.github.pockethub.android.util.android.text.append
 import com.github.pockethub.android.core.commit.CommitUtils
 import com.github.pockethub.android.util.AvatarLoader
+import com.github.pockethub.android.util.android.text.append
 import com.meisolsson.githubsdk.model.Commit
 import com.xwray.groupie.kotlinandroidextensions.Item
 import com.xwray.groupie.kotlinandroidextensions.ViewHolder

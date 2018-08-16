@@ -18,7 +18,7 @@ package com.github.pockethub.android.core.commit
 import android.text.SpannedString
 import android.text.TextUtils
 import android.widget.ImageView
-import androidx.text.buildSpannedString
+import androidx.core.text.buildSpannedString
 import com.github.pockethub.android.util.AvatarLoader
 import com.meisolsson.githubsdk.model.Commit
 import com.meisolsson.githubsdk.model.GitHubFile

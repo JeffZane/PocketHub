@@ -23,9 +23,9 @@ import android.util.Log
 import android.view.*
 import android.widget.ProgressBar
 import android.widget.TextView
-import androidx.text.bold
-import androidx.text.buildSpannedString
-import androidx.text.color
+import androidx.core.text.bold
+import androidx.core.text.buildSpannedString
+import androidx.core.text.color
 import butterknife.BindView
 import com.github.pockethub.android.Intents.EXTRA_REPOSITORY
 import com.github.pockethub.android.R

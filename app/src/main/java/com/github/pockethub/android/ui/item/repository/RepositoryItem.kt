@@ -2,9 +2,9 @@ package com.github.pockethub.android.ui.item.repository
 
 import android.text.TextUtils
 import android.view.View
-import androidx.text.bold
-import androidx.text.buildSpannedString
-import androidx.text.color
+import androidx.core.text.bold
+import androidx.core.text.buildSpannedString
+import androidx.core.text.color
 import com.github.pockethub.android.R
 import com.github.pockethub.android.ui.view.OcticonTextView.*
 import com.meisolsson.githubsdk.model.Repository
